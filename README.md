@@ -1,3 +1,3 @@
 # jiantengtoo
 
-https://www.jiantengtoo.github.io
+jiantengtoo.github.io
